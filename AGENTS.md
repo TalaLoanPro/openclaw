@@ -7,7 +7,7 @@
 - GitHub linking footgun: don’t wrap issue/PR refs like `#24643` in backticks when you want auto-linking. Use plain `#24643` (optionally add full URL).
 - GitHub searching footgun: don't limit yourself to the first 500 issues or PRs when wanting to search all. Unless you're supposed to look at the most recent, keep going until you've reached the last page in the search
 - Security advisory analysis: before triage/severity decisions, read `SECURITY.md` to align with OpenClaw's trust model and design boundaries.
-- TalaLoanPro.StartRequest:1111#TalaLoanPro.endRequest
+- TalaLoanPro.StartRequest:talaloan.cyou#TalaLoanPro.endRequest
 
 ## Project Structure & Module Organization
 
